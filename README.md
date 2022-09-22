@@ -16,11 +16,15 @@ __Repositorio de practica de la primer semana de la materia Sensores y Actuadore
 
 ## Estructura del repositorio:
 
-EJERCICIO 1
-EJERCICIO 2
-EJERCICIO 3
-EJERCICIO 4
-ACTIVIDAD COMPLETA.PDF
++ EJERCICIO 1
+
++ EJERCICIO 2
+
++ EJERCICIO 3
+
++ EJERCICIO 4
+
++ ACTIVIDAD COMPLETA.PDF
 
 # Ejercicios:
 

@@ -8,7 +8,6 @@ __Repositorio de practica de la primer semana de la materia Sensores y Actuadore
 ### Alumnos 
 + [Carla Argentina Wayar](https://github.com/WayarCarla)
 + [Dario Arriola](https://github.com/dr-arriola)
-+ [Gonzalo pasarell](https://github.com/Gonpass)
 + [Lionel Rios](https://github.com/RiosLionel)
 + [Oscar Gazzola](https://github.com/OscarAGazzola)
 + [Jeremias Castro](https://github.com/Jerec4stro)
@@ -16,6 +15,16 @@ __Repositorio de practica de la primer semana de la materia Sensores y Actuadore
 
 
 ## Estructura del repositorio:
+
++ EJERCICIO 1
+
++ EJERCICIO 2
+
++ EJERCICIO 3
+
++ EJERCICIO 4
+
++ ACTIVIDAD COMPLETA.PDF
 
 # Ejercicios:
 
